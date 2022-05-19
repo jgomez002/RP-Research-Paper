@@ -1,5 +1,6 @@
 # RP-Research-Paper
-
+<p align="center">
+  
 **Targeting Water Pollution and Hydroelectricity Potential Within Low-Income Areas
 **
 
@@ -16,7 +17,8 @@ Research Practicum
 
 Jacquelyn Gomez
 May 2021
-
+  
+</p>
 
 
 **Abstract**
